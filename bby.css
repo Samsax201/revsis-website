@@ -1,0 +1,314 @@
+body {
+    margin: 0px;
+}
+
+.BODY {
+    background-image: url(images/download3.jpg);
+    margin: 0 auto;
+
+    
+}
+
+.mixed {
+    background-color: rgb(1, 53, 1);
+    display: flex;
+    height: 115px;
+    border: 1px ;
+}
+
+.topbar {
+    text-align: right;
+    flex: 1;
+}
+
+.h1 {
+    font-size: 70px;
+    height: 70px;
+    text-align: left;
+    font-style: oblique;
+    color: rgb(9, 238, 9);
+    margin-left: 10px;
+}
+
+.h2  {
+    font-size: 20px;
+    height: 7px;
+    text-align: left;
+    font-style: normal;
+    color: rgb(7, 146, 7);
+    margin-left: 50px;
+}
+
+.h3 {
+    height: 28px;
+    font-size: 20px;
+    text-align: left;
+    font-style: normal;
+    margin: 10px;
+    color: rgb(7, 146, 7);
+    margin-left: 25px;
+}
+
+.menubar {
+    height: 20x;
+    text-align: right;
+    margin-top: 50px;
+    flex: 2;
+    background-color: rgb(1, 53, 1);
+}
+
+.menubar a {
+    margin: 0 15px;
+    color: rgb(9, 238, 9);
+    text-decoration: none;
+    font-size: 25px;
+    text-align: center;
+    align-items: center;
+    font-style: inherit;
+}
+
+
+.groundpage {
+    height: 450px;
+    background-color: white;
+    border: 1px;
+    width: 20%;
+    border-radius: 1cm;
+    background-color:rgb(9, 238, 9);
+    align-items: center;
+    text-align: center;
+    margin:auto auto
+    
+}
+
+.gplog {
+    height: 50px;
+    margin: auto;
+    color: rgb(1, 59, 1);
+}
+
+.up {
+  text-align: left;
+  text-decoration: none;
+  
+}  
+
+.gp1 {
+    font-size: 15px;
+    height: 45px;
+    color: rgb(2, 65, 2);
+    width: 255px;
+    margin: auto;
+}
+
+
+
+.gp2 {
+    font-size: 15px;
+    height: 45px;
+    color: rgb(2, 65, 2);
+    width: 255px;
+    margin: auto;
+}
+
+.gp3 {
+    font-size: 15px;
+    height: 40px;
+    color: rgb(8, 85, 8);
+    width: 255px;
+    margin: auto;
+}
+
+.gp3 a {
+    text-decoration: none;
+    color:rgb(2, 65, 2);
+}
+
+.gp4 {
+    background-color: green;
+    height: 33px;
+    font-size: 15px;
+    text-decoration: none;
+    margin: auto;
+    border-radius: 2cm;
+    width: 200px;
+}
+
+.gp4 a {
+    text-decoration: none;
+    color: rgb(0, 26, 0);
+}
+
+.gp5 {
+    margin: auto;
+    height: 50px;
+    text-align: center;
+    
+
+}
+
+.gp5 a {
+    text-decoration: none;
+    color: rgb(0, 26, 0) ;
+    font-size: 20px;
+    font-style: oblique;
+    
+}
+
+.Spg {
+    height: 650px;
+    background-color: white;
+    border: 1px;
+    width: 300px;
+    border-radius: 1cm;
+    background-color:rgb(9, 238, 9);
+    align-items: center;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.Sgp1 {
+    height: 50px;
+    margin: 60;
+    color: rgb(1, 59, 1);
+}
+
+.Spg2 {
+    font-size: 15px;
+    height: 45px;
+    color: rgb(2, 65, 2);
+    width: 255px;
+    margin-left: 23px;
+}
+
+.Spg3 { 
+    font-size: 15px;
+    height: 45px;
+    color: rgb(2, 65, 2);
+    width: 255px;
+    margin-left: 23px;
+    margin-top: 10px;
+}
+
+.Spg4 {
+    font-size: 15px;
+    height: 45px;
+    color: rgb(2, 65, 2);
+    width: 255px;
+    margin-left: 23px;
+    margin-top: 5pxpx;
+}
+
+.Spg5 {
+    font-size: 15px;
+    height: 45px;
+    color: rgb(2, 65, 2);
+    width: 255px;
+    margin-left: 23px;
+    margin-top: 50px;
+}
+
+.Spg10 {
+    font-size: 15px;
+    height: 45px;
+    color: rgb(2, 65, 2);
+    width: 255px;
+    margin-left: 23px;
+    margin-top: 10px;
+}
+
+.Spg6 {
+    font-size: 15px;
+    height: 45px;
+    color: rgb(2, 65, 2);
+    width: 255px;
+    margin-left: 23px;
+    margin-top: 10px;
+}
+
+.Spg7 {
+    font-size: 15px;
+    height: 45px;
+    color: rgb(2, 65, 2);
+    width: 255px;
+    margin-left: 23px;
+    margin-top: 10px;
+}
+
+.Spg8 {
+    font-size: 15px;
+    height: 40px;
+    color: rgb(2, 65, 2);
+    width: 255px;
+    margin-left: 23px;
+    margin-top: 20px;
+    text-decoration: none;
+}
+
+.spg8 a {
+    text-decoration: none;
+}
+
+.Sgp9 {
+    background-color: green;
+    height: 33px;
+    font-size: 15px;
+    text-decoration: none;
+    margin-left: 50px;
+    border-radius: 2cm;
+    width: 200px;
+}
+
+.Sgp9 a {
+    text-decoration: none;
+    color: rgb(0, 26, 0);
+}
+
+.AbUs {
+    height: 500px;
+    background-color: white;
+    border: 1px;
+    width: 900px;
+    border-radius: 1cm;
+    background-color:rgb(9, 238, 9);
+    margin: 30px 230px;
+}
+
+.aus {
+    height: 100px;
+    font-size: 30px;
+    margin-top: 30px;
+}
+.aus h1 {
+    text-align: center;
+}
+
+.note {
+    font-size: 15px;
+    font-style: inherit;
+    width: 750px;
+    text-align: center;
+    margin: 100px;
+    
+}
+
+.note a {
+    text-decoration: none;
+    color:  rgb(0, 17, 0) ;
+}
+
+.submit {
+    background-color: green;
+    height: 33px;
+    font-size: 15px;
+    text-decoration: none;
+    margin-left: 50px;
+    border-radius: 2cm;
+    width: 200px;
+}
+
+.submit a {
+    text-decoration: none;
+    color:  rgb(0, 17, 0) ;
+
+}

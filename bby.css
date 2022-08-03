@@ -4,6 +4,7 @@ body {
 
 .BODY {
     background-image: url(images/download3.jpg);
+    background-image: cover;
     margin: 0 auto;
 
     

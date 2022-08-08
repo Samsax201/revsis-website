@@ -1,20 +1,25 @@
-body {
-    margin: 0px;
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
 }
 
-.BODY {
-    background-image: url(images/download3.jpg);
-    background-image: cover;
-    margin: 0 auto;
-
-    
-}
+/* img { */
+    /* height: 100%; */
+    /* width: 100%; */
+/* } */
+body{
+    background: url(images/download3.jpg);
+    background-size: 100%;
+    /* background-position: 100%; */
+}git
 
 .mixed {
     background-color: rgb(1, 53, 1);
     display: flex;
     height: 115px;
     border: 1px ;
+    width: 100%;
 }
 
 .topbar {
